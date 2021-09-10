@@ -1,0 +1,7 @@
+E:\KirillMeets\KirillMeets\bin\Debug\KirillMeets.exe.config
+E:\KirillMeets\KirillMeets\bin\Debug\KirillMeets.exe
+E:\KirillMeets\KirillMeets\bin\Debug\KirillMeets.pdb
+E:\KirillMeets\KirillMeets\obj\Debug\KirillMeets.csproj.CoreCompileInputs.cache
+E:\KirillMeets\KirillMeets\obj\Debug\KirillMeets.exe
+E:\KirillMeets\KirillMeets\obj\Debug\KirillMeets.pdb
+E:\KirillMeets\KirillMeets\obj\Debug\KirillMeets.csproj.AssemblyReference.cache
